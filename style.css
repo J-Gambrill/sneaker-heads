@@ -27,3 +27,90 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+
+
+body {
+    background-image: url('https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg'); /* Set the path to your image */
+    background-size: cover; /* Cover the entire area */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center; /* Center the image */
+}
+
+.title{
+    width: 350px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    
+
+    border-style: solid;
+    border-color: sandybrown;
+    border-radius: 20px;
+    border-width: 5px;
+    padding: 5px;
+
+    background-color: darkgray;
+    margin: auto;
+}
+
+#jordans-1 {
+    height: 400px;
+    width: 600px;
+    margin-top: 5%;
+    margin-left: 55%;
+}
+
+#jordans-2 {
+    height: 400px;
+    width: 600px;
+    margin-top: -25%;
+    margin-left: 4%;
+}
+
+/*
+text in page
+*/
+
+
+#row1-section2 {
+    
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+    
+
+    border-style: solid;
+    border-color: coral;
+    border-radius: 20px;
+    border-width: 5px;
+    padding: 10px;
+    
+    
+    background-color: deepskyblue;
+    width: 600px;
+    margin-top: 1.25%;
+    margin-left: 54.25%;
+}
+
+
+#row2-section2 {
+    
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+
+    border-style: solid;
+    border-color: rosybrown;
+    border-radius: 30px;
+    border-width: 5px;
+    padding: 10px;
+    
+    
+    background-color: indianred;
+    width: 600px;
+    margin-top: 1.25%;
+    margin-left: 3.12%;
+    
+}
