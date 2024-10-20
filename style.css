@@ -29,7 +29,7 @@ Images:
 */
 
 
-
+/* This is all top nav bar -->*/
 body {
     background-image: url('https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg'); /* Set the path to your image */
     background-size: cover; /* Cover the entire area */
@@ -114,3 +114,4 @@ text in page
     margin-left: 3.12%;
     
 }
+
